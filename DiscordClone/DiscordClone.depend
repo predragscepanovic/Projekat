@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1607478262 source:c:\temp\discordclone\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DiscordClone.h"
+	"Nalog.h"
+
+1607481254 source:c:\temp\discordclone\discordclone.c
+	"DiscordClone.h"
+	"Nalog.h"
+	"Grupa.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1607480654 c:\temp\discordclone\discordclone.h
+	"Nalog.h"
+	"Grupa.h"
+
+1607481133 c:\temp\discordclone\nalog.h
+
+1607481149 source:c:\temp\discordclone\nalog.c
+	"nalog.h"
+	<stdio.h>
+	<string.h>
+
+1607480563 source:c:\temp\discordclone\grupa.c
+	<stdio.h>
+	<stddef.h>
+	<string.h>
+	"Grupa.h"
+	"Nalog.h"
+
+1607479130 c:\temp\discordclone\grupa.h
+	"Nalog.h"
+	<stdio.h>
+
+1607639460 source:c:\users\user\onedrive\radna površina\discordclone\discordclone.c
+	"DiscordClone.h"
+	"Nalog.h"
+	"Grupa.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1607639460 c:\users\user\onedrive\radna površina\discordclone\discordclone.h
+	"Nalog.h"
+	"Grupa.h"
+
+1607639460 c:\users\user\onedrive\radna površina\discordclone\nalog.h
+
+1607479130 c:\users\user\onedrive\radna površina\discordclone\grupa.h
+	"Nalog.h"
+	<stdio.h>
+
+1607639460 source:c:\users\user\onedrive\radna površina\discordclone\grupa.c
+	<stdio.h>
+	<stddef.h>
+	<string.h>
+	"Grupa.h"
+	"Nalog.h"
+
+1607478262 source:c:\users\user\onedrive\radna površina\discordclone\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DiscordClone.h"
+	"Nalog.h"
+
+1607639460 source:c:\users\user\onedrive\radna površina\discordclone\nalog.c
+	"nalog.h"
+	<stdio.h>
+	<string.h>
+
